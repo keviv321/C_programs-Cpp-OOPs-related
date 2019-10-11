@@ -1,1 +1,2 @@
-# C_programs
+# Programs
+Codes written in C and Cpp
